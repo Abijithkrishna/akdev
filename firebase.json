@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "akdev-ba8b7",
     "public": "public",
     "ignore": [
       "firebase.json",
